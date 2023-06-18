@@ -8,6 +8,10 @@ Scrapio built on BS4 (BeautifulSoup).
 
 
 ![Screenshot](https://imgtr.ee/images/2023/06/18/YjlEn.png)
+![Screenshot]([https://imgtr.ee/images/2023/06/18/YjlEn.png](https://imgtr.ee/images/2023/06/18/Yg6IR.png))
+![Screenshot]([https://imgtr.ee/images/2023/06/18/YjlEn.png](https://imgtr.ee/images/2023/06/18/YgN7I.png))
+![Screenshot]([https://imgtr.ee/images/2023/06/18/YjlEn.png](https://imgtr.ee/images/2023/06/18/Ygxwb.png))
+
 
 
 ## FAQ
