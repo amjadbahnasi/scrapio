@@ -14,6 +14,26 @@ Scrapio built on BS4 (BeautifulSoup).
 
 
 
+## Scrapio Requirements (python 3.6+)
+
+run the following command in termenal / cmd
+
+```bash
+  pip install bs4
+  pip install tabulate
+  pip install requests
+```
+
+
+## Run
+make sure you install (Scrapio Requirements) and in terminal type 
+
+```bash
+python scrapio.py
+```
+
+
+
 ## FAQ
 
 #### Qualified phone numbers / emails?
@@ -30,23 +50,6 @@ simple, lets say there's wallet call 0xffffffff.., or email xx@xxx.com so just b
 
 
 
-
-## Scrapio Requirements (python 3.6+)
-
-run the following command in termenal / cmd
-
-```bash
-  pip install bs4
-  pip install tabulate
-  pip install requests
-```
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at amjadalbahnasi@gmail.com
-
-
 # Scrapio v2.0
 
 A brief description of what will include: 
@@ -56,3 +59,8 @@ A brief description of what will include:
 - Scrap single / multiple row.
 - and (5+) more..
 
+
+## Donate to support scrapio grow.
+If you believe i deserve a thanks 
+- BTC (BTC) : 1JxDuKJAeEr3V3bK3nxYAZo8GbugY8hjr
+- BTC (Segwit) : bc1q3flkygcxfzrxg264qyq532acu7y0q6j300gm30
